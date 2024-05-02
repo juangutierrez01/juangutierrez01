@@ -4,6 +4,6 @@
 
 <div align="center">
 
-🠯 Check out some of my $\color{crimson}\textsf{tools}$, $\color{forestgreen}\textsf{apps}$, and $\color{royalblue}\textsf{games}$ pinned below 🠯
+🞃 Check out some of my $\color{crimson}\textsf{tools}$, $\color{forestgreen}\textsf{apps}$, and $\color{royalblue}\textsf{games}$ pinned below 🞃
 
 </div>
