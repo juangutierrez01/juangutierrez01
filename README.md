@@ -3,5 +3,5 @@
 </h1>
 
 <div align="center">
-  ↓ Check out some of my projects pinned below ↓
+  ↓ Check out some of my tools, apps, and games pinned below ↓
 </div>
